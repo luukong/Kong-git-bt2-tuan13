@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+html {
+    font-size: 62.5%;
+    text-align: center;
+    color: #000;
+}
+
+body {
+    font-size: 3rem;
+   
+   
+}
+
+#header {
+    height: 10rem;
+    background-color: greenyellow;
+}
+
+#content {
+    height: 50rem;
+    background-color: red;
+}
+
+#footer {
+    height: 30rem;
+    background-color: yellowgreen;
+}
